@@ -26,13 +26,13 @@ The following **optional** features are implemented:
 - [ ] User can **see embedded image media within a tweet** on list or detail view.
 - [ ] User can **click a link within a tweet body** on tweet details view. The click will launch the web browser with relevant page opened.
 - [ ] User can view following / followers list through any profile they view.
-- [ ] User is using **"Twitter branded" colors and styles**
+- [x] User is using **"Twitter branded" colors and styles**
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Demo of of the Application](demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
